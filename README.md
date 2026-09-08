@@ -1,6 +1,6 @@
 # College Information Chatbot
 
-## Theni Kammavar Sangam College of Engineering and Technology
+## Abdul kalam College of Engineering and Technology
 
 ### Project Description
 
